@@ -111,6 +111,12 @@ This guide walks you through creating a Go application, pushing the code to GitH
 
 ## Step 4: Deploy to Kubernetes
 
+If you don't know how to setup kubernetes cluster
+
+**Check out the below link whick includes deatailed steps for creating a Kubernetes cluster using kubeadm with two AWS EC2 instances: a Master Node and a Worker Node.**
+
+https://github.com/MahammadYakub/Setup-Kubernetes-Cluster.git
+
 1. **Create the Kubernetes Deployment:**
 
    Create a `deployment.yaml` file with the following content:
